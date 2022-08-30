@@ -1,0 +1,121 @@
+{
+  "name": "Nasreen Banu A.K.",
+  "jobTitle": "Full Stack Developer",
+  "contact": {
+    "email": "nasreenbanuak@gmail.com",
+    "location": "Cuddalore,India",
+    "github": "github.com/nasreen-28",
+    "mobile": "+916385331446",
+    "linkedin": "linkedin.com/in/nasreenbanuak",
+    "stackoverflow": "stackoverflow.com/cv/nasreen-28"
+  },
+  "ug": {
+    "degree": "Bachelor of Technology",
+    "institute": "Sri Manakula Vinayagar Engineering College",
+    "startdate": "08/2018",
+    "enddate": "05/2022",
+    "cgpa": "9.05",
+    "course": "Computer Science and Engineering"
+  },
+  "hsc": {
+    "degree": "Higher Secondary Education",
+    "institute": "St. Mary's Matriculation Higher Secondary School",
+    "startdate": "06/2016",
+    "enddate": "05/2018",
+    "percentage": "85.6"
+  },
+  "projects": [
+    {
+      "title": "Sarvatrika",
+      "desc1": "The proposed model analyzes the type of dataset given and automates the process of algorithm selection.",
+      "desc2": "Technology used : Html, Css , Js and Machine learning"
+    },
+    {
+      "title": "Nexus",
+      "desc1": "The main objective of this project is to create a hybrid model to predict the chance of admit of students in TN engineering colleges",
+      "desc2": "Technology used: HTML, CSS, JS, Flask and Machine Learning"
+    }
+  ],
+  "workexp": [
+    {
+      "company": "Zoho Corporation",
+      "designation": "Project Trainee",
+      "startdate": "05/2021",
+      "enddate": "06/2021",
+      "tasks": "Worked on assignments which included advanced concepts of Java, Servlets and Tomcat server"
+    },
+    {
+      "company": "Virtusa",
+      "designation": "Associate Engineer",
+      "startdate": "05/2022",
+      "enddate": "Present",
+      "tasks": "Working on assignments which include to develop website using Java full stack."
+    }
+  ],
+  "achievements": [
+    {
+      "name": "Unisys Cloud 20/20 ",
+      "description": "2nd runner up"
+    },
+    {
+      "name": "Inframind Season 4",
+      "description": "Pre-finalist"
+    }
+  ],
+  "participations": [
+    {
+      "name": "5G Hackathon",
+      "description": "Co-ordinated a team of 4 members in the 5G use cases hackathon organized by IDRBT, Hyderabad. "
+    },
+    {
+      "name": "Enantra",
+      "description": "Attended a one day national workshop on Machine Learning held at Anna University, Chennai."
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Oracle Certified Associate",
+      "date": "05/2022"
+    },
+    {
+      "name": "Database Management System",
+      "date": "05/2021"
+    }
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "level": "Full Professional Proficiency"
+    },
+    {
+      "name": "Tamil",
+      "level": "Full Professional Proficiency"
+    },
+    {
+      "name": "Urdu",
+      "level": "Native or Bilingual Proficiency"
+    }
+  ],
+  "areasofinterests": [
+    "Database Management System",
+    "C programming",
+    "Core Java",
+    "Full stack Development(Java)"
+  ],
+  "skills": [
+    "C",
+    "Java 8",
+    "Springboot",
+    "MySql",
+    "HTML",
+    "CSS",
+    "JS",
+    "Angular",
+    "React",
+    "Python",
+    "Flask",
+    "Numpy",
+    "Pandas",
+    "Machine Learning"
+  ]
+}
