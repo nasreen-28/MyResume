@@ -8,7 +8,7 @@ import { HttpClient } from '@angular/common/http';
   providedIn: 'root'
 })
 export class ResumeService {
-  private apiServerUrl = environment.apiBaseUrl;
+  private apiServerUrl = "http://localhost:8080"
 getResume() {
   return this.http.get<Resume>(`${this.apiServerUrl}/getResume`);
 }
